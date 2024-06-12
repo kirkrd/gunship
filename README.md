@@ -7,6 +7,11 @@ experience with lower level languages so this is a playground for this purpose.
 ## Build
 
 
+### Dependencies
+
+Im using [SDL](https://www.libsdl.org/) to provide access to inputs, graphics and audio.
+
+
 ## Development plan
 
 Stage 1: Basic Engine Setup
