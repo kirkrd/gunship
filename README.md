@@ -4,6 +4,9 @@ Gunship is a game engine i am using to learn more about C++. I have no prior
 experience with lower level languages so this is a playground for this purpose.
 
 
+## Build
+
+
 ## Development plan
 
 Stage 1: Basic Engine Setup
